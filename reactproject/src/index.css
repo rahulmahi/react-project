@@ -1,0 +1,30 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  background-color: darkseagreen;
+  font-size: 25px;
+}
+nav a {
+  margin-left: 20px;
+  text-decoration: none;
+}
+.imgs{
+  background-image: url('../src/images.js/hero.jpg');
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+}
+.cont{
+  text-align: start;
+  font-size: 30px;
+  color: white;
+}
+.about2{
+  display: flex;
+}
+i{
+  color: red;
+}
+.image{
+  background-image: url('../tap.jpg');
+}
